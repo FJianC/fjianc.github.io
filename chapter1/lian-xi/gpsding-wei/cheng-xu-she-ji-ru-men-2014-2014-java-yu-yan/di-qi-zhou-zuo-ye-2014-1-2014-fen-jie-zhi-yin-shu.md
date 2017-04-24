@@ -109,3 +109,60 @@ public class Main
 
 时间限制：500ms                内存限制：32000kb
 
+```java
+import java.util.Scanner;
+public class Main
+{
+	public static boolean wangshu(int n)
+	{
+		int sum=0;
+		for(int i=1;i<n;i++)
+		{
+			if(n%i==0)
+			{
+				sum+=i;
+			}
+		}
+		if(sum==n)
+		{
+			return true;
+		}
+		else
+		{
+			return false;
+		}
+	}
+	public static void main(String[] args)
+	{
+		Scanner in=new Scanner(System.in);
+		int n=in.nextInt();
+		int m=in.nextInt();
+		int count=0;
+		boolean frist=true;		
+		for(;n<=m;n++)
+		{
+			if(wangshu(n))
+			{
+				if(frist)
+				{
+					System.out.print(n);
+					frist=false;
+					count++;
+				}
+				else
+				{
+					System.out.print(" "+n);
+					count++;
+				}
+			}
+		}
+		if(count==0)
+		{
+			System.out.println("");
+		}		
+	}
+}
+```
+
+
+
