@@ -7,7 +7,8 @@
 * C语言随笔
 * Python随笔
 * Markdown随笔
-* Github随笔
+* [Github随笔](githubsui-bi.md)
 * Ubuntu随笔
-* Gitbook随笔
+* [Gitbook随笔](gitbooksui-bi.md)
+  * [随笔](gitbooksui-bi/sui-bi.md)
 
