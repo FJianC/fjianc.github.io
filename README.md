@@ -1,3 +1,6 @@
-# My Awesome Book
+# FJianC的编程随笔
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是我的程序员之路上的点点滴滴
+
+
+
