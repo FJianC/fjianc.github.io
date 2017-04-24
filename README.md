@@ -28,7 +28,7 @@ links:
     weibo: null
   sidebar: {}
 description: 学习随笔
-extension: 'null,'
+extension: 'null'
 ---
 
 # FJianC的学习随笔
