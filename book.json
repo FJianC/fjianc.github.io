@@ -6,7 +6,6 @@
 	"isbn": null,
 	"extension": null,
 	"variables": {
-
 	},
 	"links": {
 		"sharing": {
@@ -17,12 +16,10 @@
 			"weibo": null
 		},
 		"sidebar": {
-
 		}
 	},
 	"output": null,
 	"pdf": {
-
 	},
 	"plugins": [
 		"prism",
