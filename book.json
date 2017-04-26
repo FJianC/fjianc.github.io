@@ -26,9 +26,9 @@
 		"tbfed-pagefooter",
 		"expandable-chapters-small",
 		"-sharing",
-		"ace",
 		"katex",
-		"include-codeblock"
+		"include-codeblock",
+		"ace"
 	],
 	"pluginsConfig": {
 		"prism": {
