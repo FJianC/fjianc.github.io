@@ -38,7 +38,7 @@
 		},
 		"tbfed-pagefooter": {
 			"copyright": "Copyright &copy FJianC",
-			"modify_label": "    Edit：",
+			"modify_label": "修订时间：",
 			"modify_format": "YYYY-MM-DD HH:mm:ss"
 		},
 		"include-codeblock": {
