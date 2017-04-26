@@ -46,9 +46,9 @@
 			"modify_format": "YYYY-MM-DD HH:mm:ss"
 		},
 		"include-codeblock": {
-            "template": "ace",
-            "unindent": "true",
-            "theme": "monokai"
+			"template": "ace",
+			"unindent": "true",
+			"theme": "monokai"
 		}
 	}
 }
