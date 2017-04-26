@@ -3,6 +3,10 @@ plugins:
   - prism
   - '-highlight'
   - tbfed-pagefooter
+  - ace
+  - katex
+  - include-codeblock
+  - expandable-chapters-small
 output: null
 pluginsConfig:
   prism:
@@ -12,6 +16,10 @@ pluginsConfig:
     copyright: Copyright &copy FJianC
     modify_label: Edit：
     modify_format: 'YYYY-MM-DD HH:mm:ss'
+  include-codeblock:
+    template: ace
+    unindent: true
+    theme: monokai
 author: FJianC
 pdf: {}
 generator: site
@@ -28,7 +36,7 @@ links:
     weibo: null
   sidebar: {}
 description: 学习随笔
-extension: 'null'
+extension: null
 ---
 
 # FJianC的学习随笔
