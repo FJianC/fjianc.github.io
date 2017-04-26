@@ -43,7 +43,7 @@
 		},
 		"include-codeblock": {
 			"template": "ace",
-			"unindent": "true",
+			"unindent": true,
 			"theme": "monokai"
 		}
 	}
