@@ -1,0 +1,31 @@
+{
+	"author": "FJianC",
+	"description": "学习随笔",
+	"plugins": [
+		"prism",
+		"-highlight",
+		"tbfed-pagefooter",
+		"expandable-chapters-small",
+		"-sharing",
+		"katex",
+		"include-codeblock",
+		"ace"
+	],
+	"pluginsConfig": {
+		"prism": {
+			"css": [
+				"prismjs/themes/prism-tomorrow.css"
+			]
+		},
+		"tbfed-pagefooter": {
+			"copyright": "Copyright &copy FJianC",
+			"modify_label": "修订时间：",
+			"modify_format": "YYYY-MM-DD HH:mm:ss"
+		},
+		"include-codeblock": {
+			"template": "ace",
+			"unindent": true,
+			"theme": "monokai"
+		}
+	}
+}
